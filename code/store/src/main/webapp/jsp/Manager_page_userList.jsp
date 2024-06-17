@@ -67,9 +67,9 @@
             </a>
           </li>
           <li class="nav-link">
-            <a href="#" onclick="confirm('我不是吴彦组 qq group: 561430012')">
+            <a href="https://matrix.to/#/#general:mozilla.org">
               <i class="iconfont icon-yijianfankui icon"></i>
-              <span class="text nav-text">意见反馈</span>
+              <span class="text nav-text">加入群组</span>
             </a>
           </li>
           <li class="nav-link">
