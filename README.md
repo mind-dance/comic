@@ -13,24 +13,24 @@
 前后端分离，总体功能需要支持用户注册、登录
 
 ## 2.2 运行环境规定
-| 依赖项                             | 版本              |
-|--------------------------------|-----------------|
-| JUnit - 单元测试库             | 3.8.1           |
-| Java Servlet JSP API            | 2.3.3           |
-| Java Servlet API                | 4.0.1           |
-| Lombok                         | 1.18.26         |
-| MySQL Connector/J              | 8.0.32          |
-| MariaDB Java Client             | 3.3.3           |
-| MyBatis                        | 3.5.13          |
-| Logback Classic                | 1.4.6 (test)    |
-| Spring Context                 | 5.2.10.RELEASE  |
-| Druid                          | 1.1.22          |
-| Spring JDBC                    | 5.2.10.RELEASE  |
-| MyBatis-Spring                 | 2.0.7           |
-| Java Annotation API            | 1.2             |
+| 依赖项               | 版本           |
+| -------------------- | -------------- |
+| JUnit - 单元测试库   | 3.8.1          |
+| Java Servlet JSP API | 2.3.3          |
+| Java Servlet API     | 4.0.1          |
+| Lombok               | 1.18.26        |
+| MySQL Connector/J    | 8.0.32         |
+| MariaDB Java Client  | 3.3.3          |
+| MyBatis              | 3.5.13         |
+| Logback Classic      | 1.4.6 (test)   |
+| Spring Context       | 5.2.10.RELEASE |
+| Druid                | 1.1.22         |
+| Spring JDBC          | 5.2.10.RELEASE |
+| MyBatis-Spring       | 2.0.7          |
+| Java Annotation API  | 1.2            |
 
 ## 2.3 需求分析
-
+可以
 ## 2.4 可行性分析
 
 # 3. 概要（总体）设计

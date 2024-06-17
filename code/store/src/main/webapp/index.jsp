@@ -1,4 +1,4 @@
-<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" %>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -448,7 +448,7 @@
             </div>
             <div>
                 <dt>
-                    <h5>吴彦文化</h5>
+                    <h5>Mozilla</h5>
                 </dt>
                 <dd>
                     <p>新浪微博</p>
