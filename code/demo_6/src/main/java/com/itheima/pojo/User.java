@@ -13,4 +13,3 @@ public class User {
     private String password; // 密码
     private Integer permission;  // 权限 超管 0，普通管理员 1
 }
-

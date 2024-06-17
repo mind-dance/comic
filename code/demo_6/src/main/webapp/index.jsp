@@ -15,12 +15,12 @@
 <div class="top flex">
     <a class="logo flex center" href="#">
         <span class="iconfont icon-twitter"></span>
-        <h1>我不是吴彦组</h1>
+        <h1>二次元商城</h1>
     </a>
     <div class="top-menu center flex">
         <ul class="top-nav flex center flex-between">
-            <li><a href="#">吴彦官网</a></li>
-            <li><a href="#">吴彦商城</a></li>
+            <li><a href="#">官网</a></li>
+            <li><a href="#">商城</a></li>
             <li><a href="#">企业团购</a></li>
             <li><a href="#">手机App</a></li>
             <li><a href="#">资质证照</a></li>

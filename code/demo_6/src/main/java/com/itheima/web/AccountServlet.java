@@ -31,7 +31,7 @@ public class AccountServlet extends HttpServlet {
         else if ("/account/logout".equals(servletPath)) {
             logout(req, resp);
             // 退出登录后回到主页，重定向到主页
-            resp.sendRedirect(contextPath + "/home-page.jsp");
+            resp.sendRedirect(contextPath + "/index.jsp");
         }
         else if ("/account/signup".equals(servletPath)) {
             if (signup(req, resp)) { // 注册成功，跳转到登陆页面
