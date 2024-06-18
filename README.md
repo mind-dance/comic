@@ -20,7 +20,6 @@
 | Java Servlet API     | 4.0.1          |
 | Lombok               | 1.18.26        |
 | MySQL Connector/J    | 8.0.32         |
-| MariaDB Java Client  | 3.3.3          |
 | MyBatis              | 3.5.13         |
 | Logback Classic      | 1.4.6 (test)   |
 | Spring Context       | 5.2.10.RELEASE |
@@ -32,7 +31,7 @@
 ## 2.3 需求分析
 需要在web页面对商品的库存进行管理，例如修改商品名、库存数量等。
 ## 2.4 可行性分析
-介绍工作原理
+使用jsp页面作为前端，接受用户输入
 # 3. 概要（总体）设计
 
 ## 3.1 系统功能设计
