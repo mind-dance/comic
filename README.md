@@ -20,7 +20,6 @@
 | Java Servlet API     | 4.0.1          |
 | Lombok               | 1.18.26        |
 | MySQL Connector/J    | 8.0.32         |
-| MariaDB Java Client  | 3.3.3          |
 | MyBatis              | 3.5.13         |
 | Logback Classic      | 1.4.6 (test)   |
 | Spring Context       | 5.2.10.RELEASE |
